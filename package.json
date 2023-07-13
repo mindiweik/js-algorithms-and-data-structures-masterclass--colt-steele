@@ -1,0 +1,24 @@
+{
+  "name": "masterclass-colt-steele",
+  "version": "1.0.0",
+  "description": "Samples from a Udemy course: JavaScript Algorithms and Data Structures Masterclass by Colt Steele.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "masterclass",
+    "examples",
+    "code",
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "Mindi Weik",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.4.0",
+    "nodemon": "^3.0.1"
+  }
+}
