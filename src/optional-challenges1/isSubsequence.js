@@ -1,5 +1,8 @@
 // multiple pointers
 function isSubsequence(possibleSubString, fullString) {
+  // edge case
+  if (!possibleSubString) return true
+  
   // possibleSubString checker
   let left = 0
   // fullString checker
